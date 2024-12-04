@@ -7,4 +7,5 @@ Tech stack used:
 3. AWS S3 Bucket
 4. AWS CloudWatch for logs
 
-![aws-bedrock-2](https://github.com/user-attachments/assets/13bc0a68-ecdb-48b0-8f54-a1b44658c4ac)
+
+![aws-bedrock-3](https://github.com/user-attachments/assets/5a472f28-8611-4ccb-b211-7d4c7f5937f4)
